@@ -21,13 +21,32 @@ Original post from the #ShadowBrokers https://steemit.com/shadowbrokers/@theshad
 - `5bb9ddfbcefb75d017a9e745b83729390617b16f4079356579ef00e5e6b5fbd0` windows.tar.xz
 
 ADDON
+
+
 这次的文件有三个目录，分别为“Windows”、“Swift” 和 “OddJob”，包含一堆令人震撼的黑客工具（我们挑几个重要的列举如下）：
 
+
 EXPLODINGCAN 是 IIS 6.0 远程漏洞利用工具
+
+
 ETERNALROMANCE 是 SMB1 的重量级利用，可以攻击开放了 445 端口的 Windows XP, 2003, Vista, 7, Windows 8, 2008, 2008 R2 并提升至系统权限。
+
+
 除此之外 ERRATICGOPHER 、ETERNALBLUE 、ETERNALSYNERGY 、ETERNALCHAMPION 、EDUCATEDSCHOLAR、 EMERALDTHREAD 等都是 SMB 漏洞利用程序，可以攻击开放了 445 端口的 Windows 机器。
+
+
 ESTEEMAUDIT 是 RDP 服务的远程漏洞利用工具，可以攻击开放了3389 端口的 Windows 机器。
+
+
 FUZZBUNCH 是一个类似 MetaSploit 的漏洞利用平台。
+
+
 ODDJOB 是无法被杀毒软件检测的 Rootkit 利用工具。
+
+
 ECLIPSEDWING 是 Windows 服务器的远程漏洞利用工具。
+
+
 ESKIMOROLL 是 Kerberos 的漏洞利用攻击，可以攻击 Windows 2000/2003/2008/2008 R2 的域控制器。
+
+
